@@ -1,4 +1,4 @@
-# Assignment 1
+# Optical Music Note Recognition
 How to run the code
 ```
 cd python-sample
